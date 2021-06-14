@@ -2933,7 +2933,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 118.3670654,44.14481 ]
+       "coordinates":  [ 18.359086,44.145289]
     },
     "properties": {
     "datestart":"1996_05_05",
