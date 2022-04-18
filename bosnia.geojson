@@ -1989,7 +1989,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 17.906755,44.976588 ]
+       "coordinates":  [ 17.881101,44.22142 ]
     },
     "properties": {
     "datestart":"1995_02_18",
